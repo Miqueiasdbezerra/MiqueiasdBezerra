@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+INITIALIZED+%5D;%3E+Building+intelligent+solutions...;%3E+Automating+the+complex...;%3E+Turning+ideas+into+systems...;%3E+Welcome+to+my+digital+universe." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZED;Building+intelligent+solutions...;Automating+the+complex...;Welcome+to+my+digital+universe." alt="Typing Animation" />
 
 <br/>
 
@@ -209,14 +209,12 @@ miqueias@db-solutions:~$ ./roadmap.sh
 ---
 
 ## `09 // CONTRIBUTION_SNAKE`
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Miqueiasdbezerra/Miqueiasdbezerra/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Animation" />
 
 </div>
 
-> A animação será exibida após configurar o workflow do GitHub Actions e gerar o SVG na branch `output`.
 
 ---
 
